@@ -1,0 +1,9 @@
+
+Link 1: Acquiring personal access token (need Oura account)
+https://cloud.ouraring.com/personal-access-tokens
+
+
+Link 2: Documents and selected codebook for importing your Oura data into the workspace of software of your choosing.
+        cURL, Python (my chosen language), Java, JavaScript
+
+https://cloud.ouraring.com/v2/docs#operation/Single_session_Document_v2_usercollection_session__document_id__get
